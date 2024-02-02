@@ -1,0 +1,1 @@
+This project is intended to apply the HTML contents acquired through The Odin Project, such as basic HTML structure, tags, text processing, lists, links and images.
