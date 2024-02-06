@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dish-title,
+.ingredients-title,
+.steps-title,
+.website-title {
+    color: navy;
+    font-weight: bold;
+}
+
+.website-title {
+    font-size: 40px;
+}
+
+img.dish-image {
+    width: 300px;
+    height: 300px;
+}
+
+li.sublist-title {
+    font-weight: bold;
+}
+
+p.dish-description {
+    font-style: italic;
+}
